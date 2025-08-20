@@ -11,7 +11,7 @@ All answers can be found in the README.md file
 
 **1. What is the difference between Git and GitHub?**
 
-[Your answer here]
+
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
@@ -35,7 +35,7 @@ All answers can be found in the README.md file
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
+This year I am most excited to learn more about the languages used in computers and learn more about problem solving. I feel comfortable most of the time 
 
 ---
 
